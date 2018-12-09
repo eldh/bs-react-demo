@@ -1,0 +1,31 @@
+{
+  "name": "rrt",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bs-react-scripts": "file:/Users/eldh/Code/reason-scripts",
+    "react": "^16.7.0-alpha.2",
+    "react-dom": "^16.7.0-alpha.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "/Users/eldh/Code/rrt/node_modules/bs-react-scripts/config/eslintConfig.js"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@glennsl/bs-jest": "^0.4.5",
+    "bs-css": "^7.5.0",
+    "bs-platform": "4.0.7",
+    "bs-react": "^0.0.5"
+  }
+}
