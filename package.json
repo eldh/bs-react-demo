@@ -1,5 +1,5 @@
 {
-  "name": "rrt",
+  "name": "bs-react-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -26,6 +26,6 @@
     "@glennsl/bs-jest": "^0.4.5",
     "bs-css": "^7.5.0",
     "bs-platform": "4.0.7",
-    "bs-react": "^0.0.5"
+    "bs-react": "eldh/bs-react#master"
   }
 }

@@ -2355,7 +2355,7 @@ bs-platform@4.0.7:
   integrity sha512-39ZXSugB03PznE7eSVwxq5z4S8Cn44r22T2eFd7rgFQ94HaB/mCNHXG0epF3mJLYhhhyPT9w3e/t+FAIjSdAkg==
 
 "bs-react-scripts@file:../reason-scripts":
-  version "0.0.9"
+  version "0.0.10"
   dependencies:
     "@babel/core" "7.2.0"
     "@svgr/webpack" "4.1.0"
@@ -2405,10 +2405,9 @@ bs-platform@4.0.7:
   optionalDependencies:
     fsevents "2.0.1"
 
-bs-react@^0.0.5:
+bs-react@eldh/bs-react#master:
   version "0.0.5"
-  resolved "https://registry.yarnpkg.com/bs-react/-/bs-react-0.0.5.tgz#946caff5e09b7df5f71635b61cfeb49ae62385d3"
-  integrity sha512-iLjQwhNcUtenuVvblF4hnblmfrw2SJwWp4gTDhVqBFTfSH8wEfe5iw7YbkuBXMvpx52ondBOV1oymuEebLL1Jw==
+  resolved "https://codeload.github.com/eldh/bs-react/tar.gz/fb9a8827045c37c5910590f57d4c60ee4e7c495a"
 
 bser@^2.0.0:
   version "2.0.0"
