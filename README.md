@@ -1,5 +1,9 @@
 # BsReact Demo
 
+This is the code from a live-coding presentation at #ReasonSTHLM on Dec 11 2018. The interesting bits are in `src/App.re` and `src/Fetch.re`.
+
+## Speaker notes
+
 - React has added some seriously cool stuff lately
 - ReasonReact has some missing features
   - Context
